@@ -10,8 +10,5 @@ This is a short Python script that syncs the MR scanner at the GIfMI (UZ Gent) w
 ## Requirements
 Tested with Psychopy (http://www.psychopy.org/) and the Siemens Trio 3T scanner located at the GIfMI in Gent (http://gifmi.ugent.be/). 
 
-## Bugs / Improvements
-If you find bugs in this script or have suggestions for improvement, please report both here https://github.com/CCN-github/fMRI-interface-Psychopy/issues
-
-## Contact
-david.wisniewski@ugent.be
+## Created by
+david.wisniewski
