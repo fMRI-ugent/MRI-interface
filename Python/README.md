@@ -1,4 +1,4 @@
-# fMRI-interface-Psychopy
+# fMRI-interface-Psychopy- by DavidWisniewski-2019
 This is a short Python script that syncs the MR scanner at the GIfMI (UZ Gent) with your experiment.  
 
 @Created by David Wisniewski
